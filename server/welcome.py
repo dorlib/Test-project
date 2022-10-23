@@ -4,3 +4,4 @@ for i in var:
 
 var2 = "Omri kadmon"
 var3 = "Dor Liberman"
+var4 = "chabi"
